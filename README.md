@@ -1,6 +1,6 @@
 
 # Rapport
- In this project, an android webview app was developed, first thing to was renaming the app to "Mywebview", then enabling the internet access by adding a 
+ In this project, an android webview app was developed, first thing to do was renaming the app to "Mywebview", then enabling the internet access by adding a 
 permission in the AndroidManifest.xml, allowing the app to load external web content. Replace the TextView with a WebView element, which was provided with 
 subsequent use.
  The next step was to create a private Webview member variable using findViewByID() within the onCreate() method: 
@@ -20,7 +20,5 @@ SetJavaScriptEnabled(true) JavaScript execution was enabled. Adding an internal 
 web page. Implementing two methods ShowInternalWebPage() and ShowExternalWebPage() to load the internal html file, and an external URL, then link
 them to the menu actions in onOptionsItemSelected(), to make sure the users could switch between the external and internal web pages.
 
-
-![](![Screenshot_20241005_162811.png](..%2F..%2FDesktop%2FScreenshot_20241005_162811.png)
-![Screenshot_20241005_162845.png](..%2F..%2FDesktop%2FScreenshot_20241005_162845.png)android.png)
-
+![](C:\Users\hbh18\Desktop\2.png)
+![](C:\Users\hbh18\Desktop\1.png)
