@@ -20,5 +20,5 @@ SetJavaScriptEnabled(true) JavaScript execution was enabled. Adding an internal 
 web page. Implementing two methods ShowInternalWebPage() and ShowExternalWebPage() to load the internal html file, and an external URL, then link
 them to the menu actions in onOptionsItemSelected(), to make sure the users could switch between the external and internal web pages.
 
-![](C:\Users\hbh18\Desktop\2.png);
-![](C:\Users\hbh18\Desktop\1.png);
+![img.png](img.png)
+![img_1.png](img_1.png)
